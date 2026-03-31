@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "FXXKED UP（feat. Week Dudus、Tade Dust、Bonbero）",
+  "base_artist": "Gucci Prince",
+  "createdAt": "2026-03-31T21:12:39.944700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FXXKED UP (feat. week dudus,Tade Dust & Bonbero)",
+      "artist": "Gucci Prince",
+      "has_synced": true,
+      "path": "select/01_FXXKED_UP_(feat._week_dudus,Tade_Dust_&_Bonbero)_Gucci_Prince.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FXXKED UP (feat. week dudus,Tade Dust & Bonbero)",
+      "artist": "Gucci Prince, week dudus, Tade Dust, Bonbero",
+      "has_synced": false,
+      "path": "select/pl_01_FXXKED_UP_(feat._week_dudus,Tade_Dust_&_Bonbero)_Gucci_Prince,_week_dudus,_Tade_Dust,_Bonbero.txt"
+    }
+  ]
+}
